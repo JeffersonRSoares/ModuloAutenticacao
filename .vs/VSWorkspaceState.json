@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ModuloAutenticacao.Classes",
-    "\\ModuloAutenticacao.Desktop"
+    "\\ModuloAutenticacao.Classes"
   ],
-  "SelectedNode": "\\MóduloAutenticacao.sln",
+  "SelectedNode": "\\ModuloAutenticacao.Classes\\NivelDAO.cs",
   "PreviewInSolutionExplorer": false
 }
