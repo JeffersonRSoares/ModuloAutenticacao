@@ -1,10 +1,11 @@
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.csproj.AssemblyReference.cache
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.TelaNivel.resources
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.Properties.Resources.resources
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.TelaAutenticacao.resources
+C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.TelaCadUsuario.resources
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.csproj.GenerateResource.cache
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.csproj.CoreCompileInputs.cache
-C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\obj\Debug\ModuloAutenticacao.Desktop.TelaCadUsuario.resources
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\bin\Debug\ModuloAutenticacao.Desktop.exe.config
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\bin\Debug\ModuloAutenticacao.Desktop.exe
 C:\Users\Aluno\Documents\MóduloAutenticacao\ModuloAutenticacao.Desktop\bin\Debug\ModuloAutenticacao.Desktop.pdb

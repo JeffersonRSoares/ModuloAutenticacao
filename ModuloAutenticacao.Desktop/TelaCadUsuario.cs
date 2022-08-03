@@ -28,5 +28,33 @@ namespace ModuloAutenticacao.Desktop
         {
 
         }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void txtLogin_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_Leave(object sender, EventArgs e)
+        {
+            //MessageBox.Show("O leave foi acionado");
+            txtLogin.Text = "O Leave foi acionado";
+            txtLogin.BackColor = Color.Red;
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new TelaNivel().Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
