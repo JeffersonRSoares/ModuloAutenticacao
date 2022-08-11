@@ -110,6 +110,7 @@
             this.btnAtualizar.TabIndex = 7;
             this.btnAtualizar.Text = "Atualizar";
             this.btnAtualizar.UseVisualStyleBackColor = true;
+            this.btnAtualizar.Click += new System.EventHandler(this.btnAtualizar_Click);
             // 
             // btnApagar
             // 
@@ -119,6 +120,7 @@
             this.btnApagar.TabIndex = 8;
             this.btnApagar.Text = "Apagar";
             this.btnApagar.UseVisualStyleBackColor = true;
+            this.btnApagar.Click += new System.EventHandler(this.btnApagar_Click);
             // 
             // TelaNivel
             // 

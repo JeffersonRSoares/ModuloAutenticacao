@@ -73,6 +73,7 @@
             this.textSenha.Name = "textSenha";
             this.textSenha.Size = new System.Drawing.Size(254, 20);
             this.textSenha.TabIndex = 3;
+            this.textSenha.UseSystemPasswordChar = true;
             // 
             // btnEntrar
             // 

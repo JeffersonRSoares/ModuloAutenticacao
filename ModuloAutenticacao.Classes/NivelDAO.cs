@@ -20,7 +20,7 @@ namespace ModuloAutenticacao.Classes
             //Definindo o tipo de comando
             comando.CommandType = System.Data.CommandType.Text;
             //Iniciando a DML
-            comando.CommandText = ("SELECT * from Nivel where Nome=@Nome;");
+            comando.CommandText = ("insert into Nivel (Nome) Values (@Nome);");
             //Adicionando parâmetros contra SQL Injection
             comando.Parameters.Add(new SqlParameter("@Nome",nome));
             //Esta tudo pronto! Vamos executar o comando.

@@ -49,19 +49,6 @@ namespace ModuloAutenticacao.Desktop
                 txtID.Clear();
             }
         }
-        private void button2_Click(object sender, EventArgs e)
-        {
-            NivelDAO nivel = new NivelDAO();
-            MessageBox.Show(nivel.Atualizar(txtID.Text, txtNome.Text));
-            CarregarNivel();
-        }
-
-        private void btnDeletar_Click(object sender, EventArgs e)
-        {
-            NivelDAO nivel = new NivelDAO();
-            MessageBox.Show(nivel.Deletar(txtID.Text));
-            CarregarNivel();
-        }
 
        
 
@@ -77,6 +64,18 @@ namespace ModuloAutenticacao.Desktop
         {
             txtID.Text = dgvNivel.Rows[e.RowIndex].Cells[0].Value.ToString();
             txtNome.Text = dgvNivel.Rows[e.RowIndex].Cells[1].Value.ToString();
+        }
+
+        private void btnApagar_Click(object sender, EventArgs e)
+        {
+            NivelDAO nivel = new NivelDAO();
+            MessageBox.Show(nivel.Deletar(txtID.Text));
+            CarregarNivel();
+        }
+
+        private void btnAtualizar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
